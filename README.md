@@ -11,4 +11,5 @@ Try to make the page look as nice as possible
 Here are a few links to help you out
 
 MDN - https://developer.mozilla.org/
+
 HTML DOG (CSS Properties) - http://htmldog.com/reference/cssproperties/
